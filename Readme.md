@@ -1,4 +1,4 @@
-# Privellege escalation checklist
+# Privilege escalation checklist
 ## Tools for auto enumeration
 + https://github.com/carlospolop/PEASS-ng/tree/master - Linux,Windows,MAC
 + https://github.com/rebootuser/LinEnum - Linux
